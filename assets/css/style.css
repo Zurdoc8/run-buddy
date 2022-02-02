@@ -265,3 +265,15 @@ margin: 0;
 .contact-info a {
     color: #fce138;
 }
+
+.hero {
+    background-color: white;
+    color: blue;
+}
+
+.hero-secondary {
+    margin: 20px;
+    font-size: 20px;
+    background-color: black;
+    color: red;
+}
